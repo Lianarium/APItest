@@ -1,0 +1,6 @@
+c:\Users\alina_apet\documents\visual studio 2015\Projects\APIweb\APIrun\bin\Debug\APIrun.exe.config
+c:\Users\alina_apet\documents\visual studio 2015\Projects\APIweb\APIrun\bin\Debug\APIrun.exe
+c:\Users\alina_apet\documents\visual studio 2015\Projects\APIweb\APIrun\bin\Debug\APIrun.pdb
+c:\Users\alina_apet\documents\visual studio 2015\Projects\APIweb\APIrun\obj\Debug\APIrun.csprojResolveAssemblyReference.cache
+c:\Users\alina_apet\documents\visual studio 2015\Projects\APIweb\APIrun\obj\Debug\APIrun.exe
+c:\Users\alina_apet\documents\visual studio 2015\Projects\APIweb\APIrun\obj\Debug\APIrun.pdb
